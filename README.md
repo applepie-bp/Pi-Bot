@@ -1,6 +1,10 @@
 # Pi-Bot
 College Project Robot Code
 
+## what and where
+The folders: carlearningtest, facialrecog, map and motor, all contain all code iterations that where used to achieve a specific target.
+
+## Sources
 machine learning rc car:
 https://github.com/harvitronix/reinforcement-learning-car
 
@@ -11,3 +15,5 @@ https://github.com/ageitgey/face_recognition
 
 Flask restful api:
 https://flask-restful.readthedocs.io/en/latest/
+
+
