@@ -2,7 +2,8 @@
 College Project Robot Code
 
 ## what and where
-The folders: carlearningtest, facialrecog, map and motor, all contain all code iterations that where used to achieve a specific target.
+The folders: carlearningtest, facialrecog, map and motor, contain all of the code iterations that where used to achieve a specific target, throughout the whole of the project.
+The rpisimulation folder brings all of these together into a simulated version of the final program that will run on the two raspberrypis
 
 ## Sources
 machine learning rc car:
