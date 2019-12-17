@@ -18,3 +18,4 @@ Flask restful api:
 https://flask-restful.readthedocs.io/en/latest/
 
 
+[![Watch the video](https://i.ytimg.com/vi/L1Z0NxJm9GM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBCvhMZwTSem4wizUVCXJ2VFZhfhw)](https://www.youtube.com/watch?v=L1Z0NxJm9GM)
